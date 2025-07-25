@@ -78,8 +78,8 @@ Level 1
 Cost - 1 Summer Festival Coin
 | Resource                | Amount per Interval | Weekly Total          | Avg/Cost | Value Rank |
 | ----------------------- | ------------------- | --------------------- | -------- | ---------- |
-| Titan Skin Stones       | 700                 | 700 × 84 = **58,800** | 58,800   | **Best**   |
-| Large Skin Stone Chests | 3                   | 3 × 28 = **84**       | 8,400    | Middle     |
+| Titan Skin Stones       | 700                 | 700 × 84 = 58,800     | 58,800   | **Best**   |
+| Large Skin Stone Chests | 3                   | 3 × 28 =   84         | 8,400    | Middle     |
 | Emeralds                | 200                 | 200 × 42 = **8,400**  | 8,400    | 2nd Best   |
 | Titan Artifact Spheres  | 4                   | 4 × 56 = **224**      | 224      | 2nd Worst  |
 | Golden Threads          | 15                  | 15 × 42 = **630**     | 630      | Worst      |
