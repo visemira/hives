@@ -1,21 +1,86 @@
 How will the resource-generating hives work?
 Tomorrow, 5 hives will appear on the Mysterious Island map. Each of them produces a different type of resource and has 5 upgrade levels. The higher the level, the more resources the hive will generate over a set period of time:
-🔸Titan Skin Stones 700\1800\3400\6000\9000 every 2 hours
-🔸Large Skin Stone Chests 3\6\12\20\30 every 6 hours
-🔸Emeralds 200\600\1185\2100\3350 every 4 hours
-🔸Titan Artifacts Speheres 4\9\18\30\48 every 3 hours
-🔸Golden Threads 15\40\70\115\200 every 4 hours
 
-Each upgrade will cost a certain amount of Summer Festival Coins and Honey on higher levels
-Lvl 1 - 1 Coin
-Lvl 2 - 2 Coins
-lvl 3 - 3 Coins
-lvl 4 -  4 Coins and 1500 Honey
-lvl 5 -  5 Coins and 3000 Honey
+| Resource                     | Generation Rate by Level (every X hours)    |       |
+| ---------------------------- | ------------------------------------------- |-------|
+| 🔸 Titan Skin Stones**       | 700 / 1800 / 3400 / 6000 / 9000 every 2 hrs | 2 hrs |
+| 🔸 Large Skin Stone Chests** | 3 / 6 / 12 / 20 / 30 every 6 hrs            | 6 hrs |
+| 🔸 Emeralds**                | 200 / 600 / 1185 / 2100 / 3350 every 4 hrs  | 4 hrs |
+| 🔸 Titan Artifact Spheres**  | 4 / 9 / 18 / 30 / 48 every 3 hrs            | 3 hrs |
+| 🔸 Golden Threads**          | 15 / 40 / 70 / 115 / 200 every 4 hrs        | 4 hrs |
 
-titan skin stone -------- 9000 * 7 * 12 = 756,000
-Large Skin Stones ------- 30 * 150 * 7 * 4 = 126,000
-Emeralds ---------------- 3350 * 7 * 6 = 140,700
-Titan Artifact Speheres   48 * 7 * 8 = 2688
-Golden Threads ---------  200 * 7 * 6 = 8400
+
+ Collection Frequency Over 7 Days
+| Resource                | Interval | Collections/Day | Weekly Collections |
+| ----------------------- | -------- | --------------- | ------------------ |
+| Titan Skin Stones       | 2 hours  | 12              | 84                 |
+| Large Skin Stone Chests | 6 hours  | 4               | 28                 |
+| Emeralds                | 4 hours  | 6               | 42                 |
+| Titan Artifact Spheres  | 3 hours  | 8               | 56                 |
+| Golden Threads          | 4 hours  | 6               | 42                 |
+
+
+
+Upgrade Costs
+| Level | Cost                   |
+| ----- | ---------------------- |
+| 1     | 1 Summer Festival Coin |
+| 2     | 2 Coins                |
+| 3     | 3 Coins                |
+| 4     | 4 Coins + 1500 Honey   |
+| 5     | 5 Coins + 3000 Honey   |
+
+
+Level 5 
+Cost - 15 Summer Festival Coin + 4500 Honey Energy
+| Resource                | Amount per Interval | Weekly Total            | Avg/Cost | Value Rank |
+| ----------------------- | ------------------- | ----------------------- | -------- | ---------- |
+| Titan Skin Stones       | 9000                | 9000 × 84 = **756,000** | 50,400   | 2nd Best   |
+| Large Skin Stone Chests | 30                  | 30 × 28 = **840**       | 8,400    | Middle     |
+| Emeralds                | 3350                | 3350 × 42 = **140,700** | 9,380    | **Best**   |
+| Titan Artifact Spheres  | 48                  | 48 × 56 = **2,688**     | 180      | 2nd Worst  |
+| Golden Threads          | 200                 | 200 × 42 = **8,400**    | 560      | Worst      |
+
+
+Level 4
+Cost - 10 Summer Festival Coin + 1500 Honey Energy
+| Resource                | Amount per Interval | Weekly Total            | Avg/Cost | Value Rank |
+| ----------------------- | ------------------- | ----------------------- | -------- | ---------- |
+| Titan Skin Stones       | 6000                | 6000 × 84 = **504,000** | 50,400   | **Best**   |
+| Large Skin Stone Chests | 20                  | 20 × 28 = **560**       | 8,400    | Middle     |
+| Emeralds                | 2100                | 2100 × 42 = **88,200**  | 8,820    | 2nd Best   |
+| Titan Artifact Spheres  | 30                  | 30 × 56 = **1,680**     | 168      | 2nd Worst  |
+| Golden Threads          | 115                 | 115 × 42 = **4,830**    | 430      | Worst      |
+
+Level 3
+Cost - 6 Summer Festival Coin
+| Resource                | Amount per Interval | Weekly Total            | Avg/Cost | Value Rank |
+| ----------------------- | ------------------- | ----------------------- | -------- | ---------- |
+| Titan Skin Stones       | 3400                | 3400 × 84 = **285,600** | 47,600   | **Best**   |
+| Large Skin Stone Chests | 12                  | 12 × 28 = **336**       | 8,400    | Middle     |
+| Emeralds                | 1185                | 1185 × 42 = **49,770**  | 8,295    | 2nd Best   |
+| Titan Artifact Spheres  | 18                  | 18 × 56 = **1,008**     | 168      | 2nd Worst  |
+| Golden Threads          | 70                  | 70 × 42 = **2,940**     | 430      | Worst      |
+
+
+Level 2
+Cost - 3 Summer Festival Coin
+ | Resource                | Amount per Interval | Weekly Total            | Avg/Cost | Value Rank |
+| ----------------------- | ------------------- | ----------------------- | -------- | ---------- |
+| Titan Skin Stones       | 1800                | 1800 × 84 = **151,200** | 50,400   | **Best**   |
+| Large Skin Stone Chests | 6                   | 6 × 28 = **168**        | 8,400    | Middle     |
+| Emeralds                | 600                 | 600 × 42 = **25,200**   | 8,400    | 2nd Best   |
+| Titan Artifact Spheres  | 9                   | 9 × 56 = **504**        | 168      | 2nd Worst  |
+| Golden Threads          | 40                  | 40 × 42 = **1,680**     | 430      | Worst      |
+
+
+Level 1
+Cost - 1 Summer Festival Coin
+| Resource                | Amount per Interval | Weekly Total          | Avg/Cost | Value Rank |
+| ----------------------- | ------------------- | --------------------- | -------- | ---------- |
+| Titan Skin Stones       | 700                 | 700 × 84 = **58,800** | 58,800   | **Best**   |
+| Large Skin Stone Chests | 3                   | 3 × 28 = **84**       | 8,400    | Middle     |
+| Emeralds                | 200                 | 200 × 42 = **8,400**  | 8,400    | 2nd Best   |
+| Titan Artifact Spheres  | 4                   | 4 × 56 = **224**      | 224      | 2nd Worst  |
+| Golden Threads          | 15                  | 15 × 42 = **630**     | 630      | Worst      |
 
