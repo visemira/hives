@@ -3,25 +3,13 @@ Tomorrow, 5 hives will appear on the Mysterious Island map.
 Each of them produces a different type of resource and has 5 upgrade levels. 
 The higher the level, the more resources the hive will generate over a set period of time
 
-| Resource                     | Generation Rate by Level (every X hours)    |       |
-| ---------------------------- | ------------------------------------------- |-------|
-| 🔸 Titan Skin Stones**       | 700 / 1800 / 3400 / 6000 / 9000 every 2 hrs | 2 hrs |
-| 🔸 Large Skin Stone Chests** | 3 / 6 / 12 / 20 / 30 every 6 hrs            | 6 hrs |
-| 🔸 Emeralds**                | 200 / 600 / 1185 / 2100 / 3350 every 4 hrs  | 4 hrs |
-| 🔸 Titan Artifact Spheres**  | 4 / 9 / 18 / 30 / 48 every 3 hrs            | 3 hrs |
-| 🔸 Golden Threads**          | 15 / 40 / 70 / 115 / 200 every 4 hrs        | 4 hrs |
-
-
- Collection Frequency Over 7 Days
-| Resource                | Interval | Collections/Day | Weekly Collections |
-| ----------------------- | -------- | --------------- | ------------------ |
-| Titan Skin Stones       | 2 hours  | 12              | 84                 |
-| Large Skin Stone Chests | 6 hours  | 4               | 28                 |
-| Emeralds                | 4 hours  | 6               | 42                 |
-| Titan Artifact Spheres  | 3 hours  | 8               | 56                 |
-| Golden Threads          | 4 hours  | 6               | 42                 |
-
-
+| Resource                   | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Interval | Collections/Day | Weekly Collections |
+| -------------------------- | ------- | ------- | ------- | ------- | ------- | -------- | --------------- | ------------------ |
+| 🔸 Titan Skin Stones       | 700     | 1800    | 3400    | 6000    | 9000    | 2 hrs    | 12              | 84                 |
+| 🔸 Large Skin Stone Chests | 3       | 6       | 12      | 20      | 30      | 6 hrs    | 4               | 28                 |
+| 🔸 Emeralds                | 200     | 600     | 1185    | 2100    | 3350    | 4 hrs    | 6               | 42                 |
+| 🔸 Titan Artifact Spheres  | 4       | 9       | 18      | 30      | 48      | 3 hrs    | 8               | 56                 |
+| 🔸 Golden Threads          | 15      | 40      | 70      | 115     | 200     | 4 hrs    | 6               | 42                 |
 
 Upgrade Costs
 | Level | Cost                   |
