@@ -1,5 +1,7 @@
 How will the resource-generating hives work?
-Tomorrow, 5 hives will appear on the Mysterious Island map. Each of them produces a different type of resource and has 5 upgrade levels. The higher the level, the more resources the hive will generate over a set period of time:
+Tomorrow, 5 hives will appear on the Mysterious Island map. 
+Each of them produces a different type of resource and has 5 upgrade levels. 
+The higher the level, the more resources the hive will generate over a set period of time
 
 | Resource                     | Generation Rate by Level (every X hours)    |       |
 | ---------------------------- | ------------------------------------------- |-------|
