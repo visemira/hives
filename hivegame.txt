@@ -11,6 +11,8 @@ The higher the level, the more resources the hive will generate over a set perio
 | 🔸 Titan Artifact Spheres  | 4       | 9       | 18      | 30      | 48      | 3 hrs    | 8               | 56                 |
 | 🔸 Golden Threads          | 15      | 40      | 70      | 115     | 200     | 4 hrs    | 6               | 42                 |
 
+
+
 Upgrade Costs
 | Level | Cost                   |
 | ----- | ---------------------- |
