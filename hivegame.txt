@@ -23,6 +23,16 @@ Upgrade Costs
 | 5     | 5 Coins + 3000 Honey   |
 
 
+Every Day Collection Summary: Levels 1–5
+| Level | Daily Cost                 | Titan Skin Stones | Large Skin Stone Chests | Emeralds | Titan Artifact Spheres | Golden Threads |
+| ----- | -------------------------- | ----------------- | ----------------------- | -------- | ---------------------- | -------------- |
+| 1     | 1 Coin                     | 8,400             | 12                      | 1,200    | 32                     | 90             |
+| 2     | 2 Coins                    | 21,600            | 24                      | 3,600    | 72                     | 240            |
+| 3     | 3 Coins                    | 40,800            | 48                      | 7,110    | 144                    | 420            |
+| 4     | 4 Coins + 1500 Honey       | 72,000            | 80                      | 12,600   | 240                    | 690            |
+| 5     | 5 Coins + 3000 Honey       | 108,000           | 120                     | 20,100   | 384                    | 1,200          |
+
+
 Level 5 
 Cost - 15 Summer Festival Coin + 4500 Honey Energy
 | Resource                | Amount per Interval | Weekly Total            | Avg/Cost | Value Rank |
